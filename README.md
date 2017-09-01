@@ -372,7 +372,7 @@ Cuando querramos retomar el proyecto, se nos habrá olvidado la mayoría de las
 cosas. *Sí tan solo hubiera escrito el por qué de esto, la vida sería más
 simple*.
 
-**La documentacíon expesa lo que hay detrás del código**.
+**La documentacíon expresa lo que hay detrás del código**.
 Se enfoca en el **por qué** en lugar del cómo. Sí las personas no saben
 el **propósito** de tu proyecto, no lo usarán ni serán contribuyentes.
 
