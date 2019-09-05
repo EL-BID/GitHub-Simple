@@ -92,6 +92,15 @@ label variable zona_c "ZONA GEOGRAFICA"
 label define zona_c 0 "Rural" 1 "Urbana"
 label value zona_c zona_c
 
+gen zona2=0 if q02==5
+replace zona2=1 if q02==1 | q02==2 
+
+
+
+
+
+
+
 ***********
 *  PAIS   *
 ***********
