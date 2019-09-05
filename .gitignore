@@ -5,8 +5,6 @@
 *.xlsx
 *.sav
 *.SAV
-*.txt
-*.TXT
 *.dbf
 *.zip
 *.sps
